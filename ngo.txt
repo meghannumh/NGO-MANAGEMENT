@@ -1,0 +1,45 @@
+Vidyaposha                                              14   vidyagiri          1   12   580004
+The_Indus                                               14   vidyanagar         2   05   580031
+The_Akshaya_patra                                       14   Raypur             3   09   580009
+Prerana_Karnataka                                       14   Saptapur           6   04   580004
+Sushanti_children_home                                  14   unkal              4   05   580031
+Dharwad_jilla_Banajigar_samajad_kshenabhivradhi         60   saptapur           9   05   580001
+The_Akruthi_foundation                                  60   Deshpande_Nagar    5   09   580029
+National_Human_Rights_panel                             60   kamaripeth         7   06   580028
+Janapada_social_service                                 60   Sidhartha_matt     8   03   580024
+Dr.B.R.Ambedkar_Educational_and_Charitable_trust        60   Maratha_colony     12  08   580008
+RAPID(Rehabilitative_assistance_for_people_in_distress) 15   Malamaddi          10  10   580007
+Msmahila_Abhiruddi_Sansthe                              15   LineBazar          13  06   580001    Gram_Shikshan_Charity_foundation                        15   Gokul_road         18  05   580030    	       Spandana_foundation                                     15   Gokul_road         11  06   580030 Surabhi_Mahila_Sangh                                    15   NavaNagar          14  09   580025
+Samarthan_Trust_for_disabled                             0   GandhiNagar        15  05   580004 Dream_house_special_children_school                      0   Malapur_road       20  03   580008 Mahaveer_Education_society                               0   Bailapanavar_Nagar 16  04   580020
+mahez_NGO_Dharwad                                        0   Maratha_colony     21  05   580001
+SKDOJ_Education_trust_Engg_medium                        0   Gangadhar_nagar    17  07   580020
+18.868
+15
+18.0278
+17.8885
+16.2788
+13.8924
+15.8114
+18.4391
+13
+11.1803
+15.0333
+17.088
+15.0333
+12.1655
+16.2788
+19.6977
+17.4642
+18.3576
+14.8661
+848
+
+e+08
+5.6454e+08
+5.6454e+08
+5.6454e+08
+5.6454e+08
+5.6454e+08
+5.6454e+08
+5e+09
+1.40185e+09

@@ -1,0 +1,20 @@
+Belgium_diocesan_social_service_society                      05   03    sandankari        580001    Elephant      krist_foundation_twist                                       03   02    koppadakeri       580008    Peacock
+lok_kalyan_rural_development_seva_samsthe                    06   01    hubli             581207    Deer
+pragathi_association                                         04   05    srinagar          580003    Cow
+Bharatiya_mahila_abhivruddi_nigam                            08   04    koppadakeri       580008    Giraffe
+Centre_for_culture_and_environment_development               10   09    kudalsangam_nilay 580001    Zebra
+Institude_for_studies_on_agriculture_and_rural_development   11   07    belgaum_road      590001    Donkey
+International_organisation_for_research_development          09   06    kelgeri_road      580001    Monkey
+Ipmard_society                                               07   08    anjaneya_nagar    580007    Lion
+concern_foundation                                           12   10    gokul_road        580024    Tiger
+19.2
+31.3209
+31.5753
+28.1603
+28.2843
+23.0868
+25.02
+26.1725
+24.5153
+22
+
